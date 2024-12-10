@@ -148,7 +148,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or feedback, feel free to open an issue in the repository or contact the project maintainer:
 
 - **Email**: Abhishekgupta26267@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/Abhishekgupta0703)
+- **LinkedIn**: (https://linkedin.com/in/Abhishekgupta0703)
+- **Powered By**: (https://izeltech.in)
+
 
 ---
 
