@@ -1,3 +1,4 @@
+# Project Fee is Applicable: Do Follow and Hit the star👍
 # Algo Mentor & Schedular
 
 ## **Project Overview**
